@@ -1,0 +1,22 @@
+.youtube-logo{
+    height: 50px;
+    cursor: pointer;
+}
+.image{ 
+
+    margin-top: 20px;
+    cursor: pointer;
+  
+}
+.button{
+    border-radius: 50px;
+    border: 1px solid rgb(10, 2, 2);
+    cursor: pointer;
+    
+    
+
+}
+.pic-p{
+    width: 40px;
+    
+}
